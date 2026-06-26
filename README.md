@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes Swiggy food delivery data using **SQL Server** and visualizes business insights through an interactive **Power BI Dashboard**.
+-This project analyzes Swiggy food delivery data using **SQL Server** and visualizes business insights through an interactive **Power BI Dashboard**.
 
 The project follows a complete **Data Analytics workflow**:
 
